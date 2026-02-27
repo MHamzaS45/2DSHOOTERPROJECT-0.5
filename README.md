@@ -1,4 +1,7 @@
-# 2D Shooter Project
+<img width="1599" height="513" alt="image" src="https://github.com/user-attachments/assets/859a66ea-d528-4713-bbce-90b7ac395b62" />
+
+
+# <a href = https://uwut09.itch.io/galactic-attack>Galactic Attack</a> 
 
 A 2D top-down shooter game built with **Unity**, featuring flexible player movement, projectile combat, enemy AI, and a full UI flow with scoring and multiple levels.
 
@@ -6,7 +9,7 @@ A 2D top-down shooter game built with **Unity**, featuring flexible player movem
 
 ## Overview
 
-2D Shooter Project is a Unity 2D game where the player fights waves of enemies across levels. It supports multiple movement and aiming styles (including an asteroids-like mode), configurable shooting, and win conditions based on defeating a set number of enemies. Score and high score are tracked per session.
+Galactic Attack is a Unity 2D game where the player fights waves of enemies across levels. It supports multiple movement and aiming styles (including an asteroids-like mode), configurable shooting, and win conditions based on defeating a set number of enemies. Score and high score are tracked per session.
 
 ---
 
@@ -110,13 +113,9 @@ Adjust these per scene or prefab to tune difficulty and feel.
 
 ---
 
-## License
-
-This project is provided as-is. Specify your preferred license (e.g. MIT, Unlicense) in this section if you publish or share the repo.
-
----
+### You can play it right <a href = https://uwut09.itch.io/galactic-attack> here! </a>
 
 ## Acknowledgments
 
 - Built with [Unity](https://unity.com/)
-- Uses Unity Input System for input handling
+- Uses Unity 2D Input System for input handling
