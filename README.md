@@ -5,11 +5,10 @@
 
 A 2D top-down shooter game built with **Unity**, featuring flexible player movement, projectile combat, enemy AI, and a full UI flow with scoring and multiple levels.
 
-<img width="397" height="223" alt="image" src="https://github.com/user-attachments/assets/2ebf4770-9a76-4b1d-a8fe-70feb1919e37" />
+<img width="397" height="223" alt="image" src="https://github.com/user-attachments/assets/2ebf4770-9a76-4b1d-a8fe-70feb1919e37" /> <img width="397" height="223" alt="image" src="https://github.com/user-attachments/assets/efec6a0a-849b-4998-864a-11a24e3bdaa8" />
 
 
 
----
 
 ## Overview
 
